@@ -10,7 +10,7 @@ The server handles all routing, identifies each client with a unique ID, and not
 
 Build & Run
 
-bashgcc -Wall -Wextra -o mini_serv mini_serv.c
+bash gcc -Wall -Wextra -o mini_serv mini_serv.c
 
 ./mini_serv <port>
 
