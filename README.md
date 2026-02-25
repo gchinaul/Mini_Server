@@ -15,7 +15,7 @@ mini_serv est un serveur de chat TCP écrit en C, pensé pour la simplicité :
 Compilation :
 bash
 
-gcc -Wall -Wextra -o mini_serv mini_serv.c
+gcc -Wall -Werror -Wextra -o mini_serv mini_serv.c
 
 Lancement :
 bash
