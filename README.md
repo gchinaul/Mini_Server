@@ -1,4 +1,5 @@
 mini_serv
+
 A minimalist TCP chat server written in C, built as part of the 42 School curriculum.
 Overview
 Multiple clients connect to the server and can exchange messages with each other. The server handles all routing, identifies each client with a unique ID, and notifies others when someone joins or leaves.
